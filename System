@@ -1,0 +1,9 @@
+Initialize an empty list: potentialCustomers = []
+Retrieve customer data from the database.
+For each customer in the customer data:
+a. Check if customer's interest matches the target interest.
+b. If true, add the customer to the potentialCustomers list.
+If potentialCustomers is not empty:
+a. Display the details of potential customers.
+Else:
+a. Display a message stating that there are no potential customers with the specified interest.
